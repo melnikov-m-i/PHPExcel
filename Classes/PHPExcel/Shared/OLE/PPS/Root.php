@@ -19,7 +19,6 @@
 //
 // $Id: Root.php,v 1.9 2005/04/23 21:53:49 dufuz Exp $
 
-
 /**
 * Class for creating Root PPS's for OLE containers
 *
